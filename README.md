@@ -1,6 +1,6 @@
 <div align="center">
 
-    <p align="center">
+<p align="center">
   <img src="photo/IMDb%20Movie%20Sentiment%20Analysis%20Banner.png" alt="IMDb Movie Review Sentiment Analysis banner" width="100%">
     </p>
   <p><strong>A Simple RNN that predicts whether a movie review expresses positive or negative sentiment.</strong></p>
