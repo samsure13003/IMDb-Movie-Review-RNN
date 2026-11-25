@@ -1,14 +1,13 @@
 <div align="center">
-  <h1>IMDb Movie Review Sentiment Analysis</h1>
-  <p><strong>A Simple RNN that predicts whether a movie review expresses positive or negative sentiment.</strong></p>
-  <p>
-    <a href="https://imdb-movie-review-rnn-a6jnjisnsc6oappowjlnurg.streamlit.app/">Open the live app</a>
-  </p>
-</div>
 
-<p align="center">
+    <p align="center">
   <img src="photo/IMDb%20Movie%20Sentiment%20Analysis%20Banner.png" alt="IMDb Movie Review Sentiment Analysis banner" width="100%">
-</p>
+    </p>
+  <p><strong>A Simple RNN that predicts whether a movie review expresses positive or negative sentiment.</strong></p>
+  <h2>
+    <a href="https://imdb-movie-review-rnn-a6jnjisnsc6oappowjlnurg.streamlit.app/">Open the live app</a>
+  </h2>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white" alt="Python 3.11">
