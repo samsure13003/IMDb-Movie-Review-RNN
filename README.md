@@ -162,6 +162,10 @@ The trained model must remain at `artifacts/simple_rnn_imdb.h5`, relative to the
 
 This project is distributed under the **GNU General Public License v3.0**. See [LICENSE](LICENSE) for the complete terms.
 
+## Author
+
+**Samsure Rahman**
+
 ## Acknowledgements
 
 - IMDb review dataset distributed through [Keras](https://keras.io/api/datasets/imdb/).
